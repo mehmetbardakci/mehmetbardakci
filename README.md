@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Mehmet Bardakcı</h1>
-<h3 align="center"Jr. Frontend Developer</h3>
+<h3 align="center">Jr. Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/724/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 
