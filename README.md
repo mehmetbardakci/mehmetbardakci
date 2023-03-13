@@ -5,13 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/724/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 
-- 🌱 I’m currently learning **React - React Native**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React and React-Native**
-
-- 📫 How to reach me **hazineren24@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 📫 How to reach me **mehmetbardakci.dev@gmail.com**
 
 <h3 align="center">Contact with me:</h3>
 <div align="center">
